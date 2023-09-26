@@ -1,1 +1,5 @@
 Este é o exemplo de um ficheiro de texto file3
+
+Esta é uma nova linha.
+
+Aqui também coloquei outra linha nova!
