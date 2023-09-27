@@ -7,3 +7,11 @@ Este é o exemplo de um dicheiro de texto file 1
 
 
 Fiz uma alteração dentro do ficheiro 1.
+
+
+
+
+
+
+
+Alterações efetuadas no branch NovaFeature.
