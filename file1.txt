@@ -15,3 +15,10 @@ Fiz uma alteração dentro do ficheiro 1.
 
 
 Alterações efetuadas no branch NovaFeature.
+
+
+
+
+
+
+Alteração no branch MASTER
