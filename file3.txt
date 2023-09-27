@@ -1,5 +1,11 @@
 Este é o exemplo de um ficheiro de texto file3
 
-Esta é uma nova linha.
+<h2>Bebidas<h2>
 
-Aqui também coloquei outra linha nova!
+<ul>
+  <li>Coffee<li>
+  <li>Tea<li>
+  <li>Milk<li>
+</ul>
+
+
